@@ -1,0 +1,79 @@
+#main {
+	width: 400px; 
+	margin: 0 auto; 
+	}
+	
+#title {
+	width: 400px; 
+	}
+
+#heading1 {
+	font-family: 'Bitter', sans-serif; 
+	color: #DCB4B4;
+	text-align: center;
+	font-size: 30px; 
+	}
+
+#heading2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400; 
+	font-size: 50px; 
+	color: #471613;
+	line-height: 0px;
+	text-align: center;  
+	}
+	
+#rover {
+	position: relative;
+	top: -75px;  
+	left: -75px; 
+		}
+	
+#go {
+	position: relative;
+	top: -225px; 
+	width: 100px; 
+	height: 50px; 
+	background-color:  #954040; 
+	margin: 0 auto;
+}
+
+#go p {
+	font-family: 'Bitter', sans-serif; 
+	color: white;
+	text-align: center; 
+	position: relative; 
+	top: 13px; 
+
+}
+
+
+#go a:link {
+	color: white;
+	text-decoration: none;
+}
+
+#go a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+#go a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+#go a:active {
+	color: white;
+	text-decoration: none;
+}
+
+
+
+
+#logo {
+	width: 60%;
+	position: relative; 
+	left: 80px; 
+	top: -215px; 
+	}

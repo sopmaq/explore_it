@@ -1,0 +1,72 @@
+#main {
+	width: 700px; 
+	margin: 0 auto; 
+	}
+	
+#title {
+	width: 700px; 
+	}
+
+#heading1 {
+	font-family: 'Bitter', sans-serif; 
+	color: #DCB4B4;
+	}
+
+#heading2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400; 
+	font-size: 60px; 
+	color: #471613;
+	line-height: 0px; 
+	}
+	
+#description {
+	font-family: 'Nunito', sans-serif;
+	font-weight: 300; 
+}
+
+#planet {
+  position:relative;
+  left: -350px; 
+  top: -350px;
+}
+
+#go {
+	position: relative;
+	top: -1200px;
+	left: 300px; 
+	width: 100px; 
+	height: 50px; 
+	background-color:  #954040; 
+	margin: 0 auto;
+}
+
+#go p {
+	font-family: 'Bitter', sans-serif; 
+	color: white;
+	text-align: center; 
+	position: relative; 
+	top: 13px; 
+
+}
+
+
+#go a:link {
+	color: white;
+	text-decoration: none;
+}
+
+#go a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+#go a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+#go a:active {
+	color: white;
+	text-decoration: none;
+}
